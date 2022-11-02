@@ -1,4 +1,4 @@
-# Statistisch Handboek Studiedata
+# Statistisch Handboek Studiedata gedragen door DAIR
 Het Statistisch Handboek Studiedata is gemaakt als onderdeel van het Versnellingsplan Onderwijsinnovatie met ICT. Het handboek dient als een gemeenschappelijk standaard voor het toetsen van analyses op studiedata in het hoger onderwijs om de validiteit en betrouwbaarheid van beleidsadviezen te waarborgen. Het handboek is geen vervanger van een cursus statistiek.
 
 De basis voor het handboek is een Toetsmatrix, waarin de meest voorkomende toetsen afzonderlijk uitgewerkt zijn. Elke toets bevat:
